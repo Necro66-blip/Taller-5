@@ -11,12 +11,10 @@ Para poner a funcionar este programa en tu computadora, solo necesitas:
 # Paso a paso para utilizar el programa
 
 # Paso 1: Guardar el archivo
-Copia todo el código fuente del gestor de inventario y guárdalo en un archivo de texto plano con el nombre exacto de **`main.py`** dentro de una carpeta en tu computadora.
+Copia todo el código fuente del gestor de inventario y guárdalo en un archivo de texto plano llamado main.py dentro de una carpeta en tu computadora.
 
-# Paso 2: Abrir la terminal
-Abre tu terminal de comandos y navega hasta la carpeta donde guardaste el archivo `main.py` utilizando el comando correspondiente (por ejemplo, `cd nombre_de_la_carpeta`).
+# Paso 2: Abrir el proyecto
+Abre tu editor de código preferido (como VS Code) y carga la carpeta donde guardaste tu archivo para tener todo a la mano.
 
 # Paso 3: Ejecutar el programa
-Escribe el siguiente comando en la terminal y presiona **Enter** para arrancar el sistema interactivo:
-```bash
-python main.py
+Abre la terminal integrada en tu editor o en tu computadora, asegúrate de estar ubicado en la carpeta del proyecto y dale al botón para correr el programa (o escribe python main.py) para ver cómo el programa cobra vida en pantalla.
